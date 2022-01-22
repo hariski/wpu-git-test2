@@ -8,7 +8,11 @@
 </head>
 <body>
     <h1>Hello Ashraf</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vero, saepe, consequatur nihil reprehenderit consectetur laborum excepturi suscipit blanditiis, sed doloribus nostrum officiis! Quis illo asperiores nesciunt quos, obcaecati sequi.</p>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vero, saepe, consequatur nihil reprehenderit consectetur laborum excepturi suscipit blanditiis, sed doloribus nostrum officiis! Quis illo asperiores nesciunt quos, obcaecati sequi</p>
+<ul>
+    <li>satu</li>
+    <li>dua</li>
+    <li>tiga</li>
+</ul>
 </body>
 </html>
